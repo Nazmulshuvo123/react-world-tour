@@ -10,3 +10,9 @@
 .non-visited{
     background-color: darksalmon;
 }
+
+.flag-container img{
+    width: 150px;
+    height: 100px;
+    padding-left: 10px;
+}
